@@ -237,7 +237,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 **[Regulation 3.2]**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **DISTRIBUTIVE DIRECTIVE**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **DISTRIBUTIVE DIRECTIVE**
 
 * [Insert Token Name] tokens shall be generated at a hard-set maximum inflation rate of 10% per annum and the actual rate of inflation shall be subject to the determination of the DAC from time to time.
 
