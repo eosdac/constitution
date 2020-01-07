@@ -237,7 +237,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 **[Regulation 3.2]**
 
-<p align="center"> **DISTRIBUTIVE DIRECTIVE*** </p>
+<p align="center"> **DISTRIBUTIVE DIRECTIVE** </p>
 
 * [Insert Token Name] tokens shall be generated at a hard-set maximum inflation rate of 10% per annum and the actual rate of inflation shall be subject to the determination of the DAC from time to time.
 
@@ -249,15 +249,15 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 **[Regulation 4.4]**
 
-<p align="center"> **VOTING DIRECTIVE*** </p>
+<p align="center"> **VOTING DIRECTIVE** </p>
 
 **[Regulation 4.5]**
 
-<p align="center"> **PROPOSAL DIRECTIVE*** </p>
+<p align="center"> **PROPOSAL DIRECTIVE** </p>
 
 **[Regulation 6.3]**
 
-<p align="center"> **ADMINISTRATIVE DIRECTIVE*** </p>
+<p align="center"> **ADMINISTRATIVE DIRECTIVE** </p>
 
 [Insert Genesis Administrator Name], a foundation duly established pursuant to the [Insert Jurisdiction of Establishment of Genesis Administrator] shall be deemed appointed as the first Administrator of the DAC for a term of 18 months from the date of activation of the first [Insert Token Name] token.
 
